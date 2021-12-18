@@ -1,7 +1,5 @@
-# Kaggle_HousePrice
-## IBAS AlphaTester
+# IBAS AlphaTester
+* IBAS project
 
-House Prices - kaggle
-
-| 2021.05.02 ~ 2021.05.28
-- Data selection & preprocessing 
+## ✍ process 
+* Kaggle - House Prices
