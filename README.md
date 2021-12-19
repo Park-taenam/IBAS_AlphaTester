@@ -9,4 +9,4 @@
 * Modeling (코드 업데이트 필요)
 
 ### 👍 Preprocessing
-![EDA&Preprocessing](./preprocessing.gif){: width="100" height="100"}
+![EDA&Preprocessing](./preprocessing.gif){: width="30%" height="30%"}
