@@ -5,7 +5,7 @@
 ## ✍ process 
 * EDA
 * Feature Selection
-* Preprocessing
+* Preprocessing [관련코드](./preprocessing.ipynb)
 * Modeling (코드 업데이트 필요)
 
 ### 👍 Preprocessing
