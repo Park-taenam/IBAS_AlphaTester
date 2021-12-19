@@ -1,4 +1,4 @@
-# IBAS AlphaTester
+# 💁‍♂️ IBAS AlphaTester
 * IBAS project
 * Kaggle - House Prices
 
@@ -8,4 +8,5 @@
 * Preprocessing
 * Modeling (코드 업데이트 필요)
 
-** ![EDA&Preprocessing](./preprocessing.gif) **
+### 👍 Preprocessing
+![EDA&Preprocessing](./preprocessing.gif){: width="100" height="100"}
