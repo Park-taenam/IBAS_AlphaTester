@@ -1,8 +1,8 @@
 # IBAS AlphaTester
 * IBAS project
+* Kaggle - House Prices
 
 ## ✍ process 
-### Kaggle - House Prices
 * EDA
 * Feature Selection
 * Preprocessing
