@@ -8,4 +8,4 @@
 * Preprocessing
 * Modeling (코드 업데이트 필요)
 
-** [EDA&Preprocessing](./preprocessing.gif)
+** ![EDA&Preprocessing](./preprocessing.gif) **
