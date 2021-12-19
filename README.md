@@ -1,6 +1,9 @@
-# Kaggle_HousePrice
+# IBAS AlphaTester
+* IBAS project
 
-House Prices - kaggle
-
-| 2021.05.02 ~ 2021.05.28
-- Data selection & preprocessing 
+## ✍ process 
+### Kaggle - House Prices
+* EDA
+* Feature Selection
+* Preprocessing
+* Modeling (코드 업데이트 필요)
