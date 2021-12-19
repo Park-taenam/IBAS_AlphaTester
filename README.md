@@ -9,4 +9,4 @@
 * Modeling (코드 업데이트 필요)
 
 ### 👍 Preprocessing
-<img src="https://github.com/Park-taenam/Kaggle_HousePrice/blob/main/preprocessing.gif width="50" height="150"/>
+<img src="https://github.com/Park-taenam/Kaggle_HousePrice/blob/main/image/preprocessing.png" width="50" height="150"/>
