@@ -9,4 +9,4 @@
 * Modeling (코드 업데이트 필요)
 
 ### 👍 Preprocessing
-![EDA&Preprocessing](./preprocessing.gif){: width="30%" height="30%"}
+<img src="https://github.com/Park-taenam/Kaggle_HousePrice/blob/main/preprocessing.gif  width="50" height="150"/>
